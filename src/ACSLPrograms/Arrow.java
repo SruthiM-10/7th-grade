@@ -1,7 +1,7 @@
 package ACSLPrograms;
 import java.util.*;
 
-//Contest 4 2022-23
+//Contest 4 (Junior) 2022-23
 
 public class Arrow {
     public static void main(String[] args){

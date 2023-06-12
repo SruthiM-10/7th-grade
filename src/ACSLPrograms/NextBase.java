@@ -2,7 +2,7 @@ package ACSLPrograms;
 import java.util.*;
 
 /*
-Contest 1 2022-2023
+Contest 1 2022-2023 (Junior)
 Given 3 positive integers, n, b, and s, generate the next n integers in base b starting with s in the given base.
 It is guaranteed that s is a valid number in base b and that b is between 2 and 9 inclusive.
 Find the base ten sum of all the digits of the numbers generated.

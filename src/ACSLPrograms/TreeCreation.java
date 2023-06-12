@@ -2,7 +2,7 @@ package ACSLPrograms;
 
 import java.util.*;
 
-//Contest 3 2022-23
+//Contest 3 2022-23 (Junior)
 
 public class TreeCreation {
     static class compA implements Comparator<LetVal>{

@@ -1,7 +1,7 @@
 package ACSLPrograms;
 import java.util.*;
 
-//Contest 4 2018-19 (Practice)
+//Contest 4 2018-19 (Practice - Junior))
 
 public class Prefix {
     public static void main(String[] args) {

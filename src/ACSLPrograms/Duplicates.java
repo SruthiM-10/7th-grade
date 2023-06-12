@@ -1,7 +1,7 @@
 package ACSLPrograms;
 import java.util.*;
 
-//Contest 4 2017-18 (practice)
+//Contest 4 2017-18 (practice - Junior)
 
 public class Duplicates {
     public static void main (String[] args){

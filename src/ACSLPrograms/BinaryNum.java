@@ -3,7 +3,7 @@ package ACSLPrograms;
 import java.lang.*;
 import java.util.*;
 
-//Contest 2 2022-23
+//Contest 2 (Junior) 2022-23
 
 public class BinaryNum {
     public static void main(String[] args) {
