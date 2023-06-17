@@ -1,7 +1,7 @@
 package USACOPrograms;
 import java.io.*;
 
-//2019 January Contest (Bronze) --> Also USACO Guide
+//2019 January Contest (Bronze) --> Also USACO Guide (Section 1.3 Example 2)
 
 public class ShellGame {
     public static void main(String[] args) throws IOException {
